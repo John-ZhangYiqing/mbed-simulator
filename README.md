@@ -8,9 +8,6 @@ All copyright are reserved by ARMmbed.
 
 ## Installation
 
-There are two ways of installing and running the simulator: using either Docker
-or a native installation.
-
 ### Docker installation
 
 1. Install Docker

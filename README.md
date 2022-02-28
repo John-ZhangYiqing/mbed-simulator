@@ -15,12 +15,7 @@ To make this feedback loop much shorter, we're releasing an alpha version of the
 ## Docs
 
 * Installation, see below.
-* [Configuration and compiler options](docs/simconfig.md)
-* [Peripherals](docs/peripherals.md)
-* [File systems and block devices](docs/fs.md)
-* [Pelion Device Management](docs/pelion.md)
-* [Debugging](docs/debugging.md)
-* [Architecture](docs/architecture.md)
+
 
 ## Installation
 

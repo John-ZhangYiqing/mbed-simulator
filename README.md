@@ -31,12 +31,12 @@ or a native installation.
 
 1. Install Docker
 1. Build the Docker image:  
-    `docker compose build`
+    `docker-compose build`
 1. Run the Docker image:  
     1. normally:  
-        `docker compose up`
+        `docker-compose up`
     2. or with watcher:  
-        `docker compose run mbed-sim npm run watch`
+        `docker-compose run mbed-sim npm run watch`
 1. The simulator can now be accessed at:  
     http://localhost:7829
 

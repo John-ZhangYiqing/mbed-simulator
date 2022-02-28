@@ -12,7 +12,7 @@ static uint8_t APP_KEY[] = { 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0
 
 
 // The port we're sending and receiving on
-#define MBED_CONF_LORA_APP_PORT     15
+#define MBED_CONF_LORA_APP_PORT     1
 
 // Peripherals (LoRa radio, temperature sensor and button)
 SX1276_LoRaRadio radio(D11, D12, D13, D10, A0, D2, D3, D4, D5, D8, D9, NC, NC, NC, NC, A4, NC, NC);
